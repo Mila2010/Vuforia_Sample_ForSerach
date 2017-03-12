@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ed54ed4ebfb009b3d6a3e4471b0328cdfa7c43b">
+        <dex dex="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d89999c1919164283f4715490f1241724ae91c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/src/main/java/vuforia/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="177fc09d70ae5f94117c9ea1a7b3bec42c9d48b4">
+        <dex dex="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/pre-dexed/debug/Vuforia_8e14b051ae398a3784376fb26b2141360a87c452.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75fe135fe5a8320cae3fba3722cfdbf8f82de050/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/src/main/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="177fc09d70ae5f94117c9ea1a7b3bec42c9d48b4">
+        <dex dex="/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_8e14b051ae398a3784376fb26b2141360a87c452/classes.dex" />
+    </item>
+
+</items>

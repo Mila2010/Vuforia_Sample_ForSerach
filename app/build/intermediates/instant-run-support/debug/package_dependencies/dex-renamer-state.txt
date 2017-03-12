@@ -1,0 +1,4 @@
+#Sat Mar 11 10:52:55 EST 2017
+base.0=/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_8e14b051ae398a3784376fb26b2141360a87c452
+renamed.0=classes.dex
+file.0=/Users/Millochka/Downloads/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_8e14b051ae398a3784376fb26b2141360a87c452/classes.dex
